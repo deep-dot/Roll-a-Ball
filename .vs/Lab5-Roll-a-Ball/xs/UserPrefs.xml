@@ -1,33 +1,26 @@
 ﻿<Properties StartupConfiguration="{A0DB8BC7-FC60-BBFA-8ADB-5A6C13F99617}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BallController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Rotator.cs">
     <Files>
       <File FileName="Assets/Scripts/CameraController.cs" Line="22" Column="1" />
       <File FileName="Assets/Scripts/Rotator.cs" Line="12" Column="1" />
-      <File FileName="Assets/Scripts/PlayerCollector.cs" Line="38" Column="78" />
+      <File FileName="Assets/Scripts/PlayerCollector.cs" />
       <File FileName="Assets/Scripts/BallController.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lab5-Roll-a-Ball" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="BallController.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c129892a-039d-419b-8d60-22a4df74bca8" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f780fca-861d-45cf-86f8-d7259aacb31b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
